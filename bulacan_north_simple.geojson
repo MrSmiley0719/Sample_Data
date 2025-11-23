@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "name": "Bulacan_North_Simple",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulacan_North_Simple",
+        "province": "Bulacan",
+        "source": "Synthetic simple polygon for testing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.05,
+              15.15
+            ],
+            [
+              121.2,
+              15.15
+            ],
+            [
+              121.2,
+              15.25
+            ],
+            [
+              121.05,
+              15.25
+            ],
+            [
+              121.05,
+              15.15
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
